@@ -1,0 +1,23 @@
+
+<ion-grid [fixed]="true">
+  <ion-row>
+    <ion-col class="padding-left:10px" size="12">
+      <ion-text color="dark">
+        <h3><ion-icon name="heart-circle" color="warning" aria-hidden="true"></ion-icon>  {{favResData.title}}</h3>
+      </ion-text>
+    </ion-col>
+    <ion-col *ngFor="let item of favResData.data" size="3" size-md="3">
+        <img [src]="item.imgsrc" width="95%"/>
+          <div class="name">
+          <ion-text color="primary">
+            {{ item.name }}
+          </ion-text>
+        </div>
+        <div class="time">
+          <ion-text color="medium">
+            {{ item.time }}
+          </ion-text>
+        </div>
+    </ion-col>
+  </ion-row>
+</ion-grid>

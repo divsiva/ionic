@@ -1,0 +1,10 @@
+
+{
+    "title" : "Most Visited Restaurants",
+    "data": [
+        {"name" : "Restaur 1", "time": "35 minutes", "imgsrc": "/assets/images/img5.jpeg"},
+        {"name" : "Restaur 2", "time": "35 minutes", "imgsrc": "/assets/images/img6.jpeg"},
+        {"name" : "Restaur 3", "time": "35 minutes", "imgsrc": "/assets/images/img7.jpeg"},
+        {"name" : "Restaur 4", "time": "35 minutes", "imgsrc": "/assets/images/img8.jpeg"}
+     ]
+}

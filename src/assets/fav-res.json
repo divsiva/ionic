@@ -1,0 +1,10 @@
+
+{
+    "title" : "Restaurants You Love",
+    "data": [
+        {"name" : "XD Belgian Waffle", "time": "35 minutes", "imgsrc": "/assets/images/img1.jpeg"},
+        {"name" : "High Street", "time": "35 minutes", "imgsrc": "/assets/images/img2.jpeg"},
+        {"name" : "Little ITaly", "time": "35 minutes", "imgsrc": "/assets/images/img3.jpeg"},
+        {"name" : "Bengali Rannaghor", "time": "35 minutes", "imgsrc": "/assets/images/img4.jpeg"}
+     ]
+}
